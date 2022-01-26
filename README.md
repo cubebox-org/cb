@@ -1,1 +1,2 @@
-# cb
+# CubeBox
+WELCOME TO CUBEBOX WIKI!
